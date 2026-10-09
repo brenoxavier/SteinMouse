@@ -1,0 +1,9 @@
+{
+  "id": "steinmouse",
+  "name": "Mouse",
+  "version": "0.1.4",
+  "author": "X4vieer",
+  "description": "Hold Shift and drag across an inventory or a chest to transfer stack after stack.",
+  "entry": "dev.xavier.stein.mouse.SteinMouse",
+  "loader": "0.1.16"
+}
