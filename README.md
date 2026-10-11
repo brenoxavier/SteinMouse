@@ -30,9 +30,9 @@ once, nothing happens with items on the cursor, and closing the screen drops the
 ## Release
 
 A `v<version>` tag (equal to `"version"` in `src/main/resources/steinmod.json`), with
-`changelog/<version>.en_US.md` and `.pt_BR.md` written first. Running the workflow by hand is a dry run. See
+`changelog/<version>.en_US.md` (and optionally `.pt_BR.md`) written first. Running the workflow by hand is a dry run. See
 `.github/workflows/release.yml` for the settings it needs: the `RELEASE_REPO` variable (the **public** repository
-that hosts the downloads; still to be decided) and the `RELEASE_TOKEN`, `DIST_TOKEN` and optional Discord secrets.
+that hosts the downloads: x4vieer/stein-mouse for now) and the `RELEASE_TOKEN` and `DIST_TOKEN` secrets.
 
 ## Licence
 
