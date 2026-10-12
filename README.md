@@ -59,3 +59,4 @@ The Stein name and logo are not covered by the licence: see the
 Stein is not an official Minecraft product. It is not approved by or associated with Mojang or Microsoft.
 
 Created by [Breno Xavier](https://github.com/brenoxavier).
+
